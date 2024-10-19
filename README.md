@@ -37,7 +37,7 @@
 
     ```bash
     git clone https://github.com/swmarinaws/lab2_encrypt.git
-    cd encryptor
+    cd lab2_encrypt
     ```
 
 3. **Сборка проекта:**
@@ -78,7 +78,7 @@
 
     ```bash
     git clone https://github.com/swmarinaws/lab2_encrypt.git
-    cd encryptor
+    cd lab2_encrypt
     ```
 
 5. **Сборка проекта:**
