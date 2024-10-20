@@ -4,15 +4,12 @@
 
 ## Требования
 
-### Для Linux (Debian)
+### Для Debian
 
 - **Компилятор:** `gcc`
 - **Библиотеки:**
-  - Gtk 2: `libgtk2.0-dev`
-  - OpenSSL: `libssl-dev`
-- **Инструменты:**
-  - `pkg-config`
-  - `make`
+  - Gtk 2
+  - OpenSSL
 
 ### Для Windows
 
